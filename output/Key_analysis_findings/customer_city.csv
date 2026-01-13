@@ -1,0 +1,4120 @@
+customer_city,customers
+sao paulo,14967
+rio de janeiro,6610
+belo horizonte,2671
+brasilia,2067
+curitiba,1463
+campinas,1396
+porto alegre,1325
+salvador,1209
+guarulhos,1151
+sao bernardo do campo,907
+niteroi,810
+santo andre,769
+osasco,715
+santos,689
+goiania,671
+sao jose dos campos,666
+fortaleza,643
+sorocaba,607
+recife,590
+jundiai,546
+florianopolis,546
+ribeirao preto,489
+belem,434
+nova iguacu,432
+barueri,419
+contagem,417
+juiz de fora,415
+sao goncalo,399
+mogi das cruzes,369
+uberlandia,367
+vitoria,366
+piracicaba,360
+sao luis,341
+sao jose do rio preto,330
+vila velha,325
+carapicuiba,320
+campo grande,315
+maua,314
+londrina,298
+praia grande,296
+taboao da serra,285
+serra,278
+diadema,274
+teresina,271
+indaiatuba,268
+bauru,267
+sao caetano do sul,267
+taubate,265
+duque de caxias,262
+maringa,261
+joinville,260
+cotia,243
+maceio,243
+cuiaba,242
+joao pessoa,241
+campos dos goytacazes,235
+macae,230
+sao carlos,229
+volta redonda,226
+suzano,222
+aracaju,220
+americana,220
+petropolis,220
+guaruja,214
+caxias do sul,213
+montes claros,206
+natal,203
+canoas,202
+betim,200
+marilia,195
+santa maria,191
+jacarei,188
+blumenau,183
+uberaba,182
+limeira,181
+pelotas,179
+valinhos,178
+sumare,177
+santana de parnaiba,177
+feira de santana,176
+itapevi,169
+ipatinga,168
+itaquaquecetuba,166
+sao jose,165
+sao vicente,163
+embu das artes,162
+franca,160
+presidente prudente,158
+atibaia,153
+rio claro,151
+cascavel,151
+araraquara,150
+nova friburgo,145
+hortolandia,143
+braganca paulista,142
+governador valadares,140
+aracatuba,136
+marica,135
+manaus,135
+cariacica,135
+divinopolis,135
+ponta grossa,135
+rio das ostras,135
+jaboatao dos guararapes,134
+itu,133
+sao joao de meriti,130
+sao jose dos pinhais,128
+paulinia,125
+pouso alegre,124
+sete lagoas,123
+rio grande,122
+barra mansa,120
+novo hamburgo,119
+cachoeiro de itapemirim,118
+itajai,118
+santa barbara d'oeste,118
+pocos de caldas,117
+cabo frio,116
+teresopolis,115
+resende,115
+passo fundo,112
+anapolis,110
+belford roxo,109
+palmas,108
+gravatai,108
+ferraz de vasconcelos,107
+ribeirao pires,107
+mage,106
+nilopolis,105
+aparecida de goiania,104
+franco da rocha,104
+porto velho,104
+sao leopoldo,101
+botucatu,99
+chapeco,99
+caieiras,99
+cajamar,99
+santa luzia,98
+balneario camboriu,98
+guaratingueta,97
+itapecerica da serra,97
+patos de minas,97
+pindamonhangaba,96
+ribeirao das neves,96
+nova lima,95
+itatiba,94
+vinhedo,94
+palhoca,94
+francisco morato,93
+salto,93
+olinda,92
+criciuma,92
+itajuba,91
+vitoria da conquista,91
+araras,89
+vicosa,89
+caraguatatuba,88
+mogi-guacu,88
+foz do iguacu,85
+ananindeua,85
+jaragua do sul,85
+varginha,84
+votorantim,84
+lages,82
+conselheiro lafaiete,82
+angra dos reis,82
+poa,81
+lavras,81
+ourinhos,79
+jandira,79
+itabira,79
+assis,79
+lorena,78
+araxa,78
+sao roque,77
+itapetininga,77
+itanhaem,77
+sao joao da boa vista,76
+birigui,76
+cubatao,76
+araruama,75
+barbacena,74
+mairipora,74
+varzea paulista,74
+mesquita,74
+teofilo otoni,73
+tatui,73
+lauro de freitas,73
+jau,72
+barretos,72
+ilheus,72
+cacapava,72
+ubatuba,72
+mogi mirim,71
+catanduva,71
+viamao,70
+toledo,70
+rio branco,70
+pinhais,69
+campina grande,68
+cachoeirinha,68
+pirassununga,67
+sao joao del rei,66
+aruja,66
+rio verde,66
+manhuacu,65
+petrolina,65
+guarapuava,64
+guarapari,64
+caruaru,64
+bage,64
+muriae,64
+avare,63
+colatina,63
+jaguariuna,62
+amparo,61
+parnamirim,61
+caratinga,61
+sertaozinho,61
+linhares,61
+votuporanga,61
+sao sebastiao,60
+paracatu,60
+rondonopolis,60
+itabuna,60
+santa cruz do sul,60
+valenca,60
+camacari,59
+dourados,59
+colombo,59
+paranagua,58
+brusque,57
+lagoa santa,57
+itaborai,57
+itapeva,56
+ouro preto,56
+tubarao,55
+alvorada,55
+jatai,54
+campo mourao,54
+bento goncalves,54
+cruzeiro,54
+lins,54
+itauna,54
+unai,53
+araguari,53
+itapira,53
+fernandopolis,53
+erechim,53
+macapa,53
+tupa,53
+queimados,53
+jaboticabal,52
+araucaria,52
+matao,52
+pato branco,51
+barra do pirai,51
+nova serrana,51
+uba,51
+barreiras,51
+francisco beltrao,50
+ijui,50
+timoteo,50
+bebedouro,50
+apucarana,50
+cosmopolis,49
+concordia,49
+boituva,48
+leme,48
+uruguaiana,48
+ibirite,48
+lajeado,48
+videira,47
+ituiutaba,47
+joao monlevade,47
+itaguai,47
+bertioga,47
+campo limpo paulista,47
+registro,46
+patrocinio,46
+paranavai,45
+itaperuna,45
+embu-guacu,45
+ilhabela,45
+boa vista,44
+sao mateus,44
+sinop,44
+sao bento do sul,44
+itupeva,44
+juazeiro,44
+sao pedro da aldeia,44
+lencois paulista,44
+vargem grande paulista,43
+passos,43
+peruibe,43
+santarem,43
+vespasiano,43
+santo angelo,43
+alfenas,42
+artur nogueira,42
+tres coracoes,42
+louveira,42
+itapema,42
+sao jose do rio pardo,42
+paulista,42
+varzea grande,41
+andradina,41
+esteio,41
+mongagua,41
+curvelo,41
+tres lagoas,41
+coronel fabriciano,41
+guaira,41
+sapucaia do sul,40
+araguaina,40
+cacador,40
+umuarama,40
+paulo afonso,40
+pirapora,40
+sao miguel do oeste,40
+extrema,40
+pedro leopoldo,40
+saquarema,40
+sabara,40
+alagoinhas,39
+bom despacho,39
+aracruz,39
+ponte nova,39
+imperatriz,39
+ouro branco,39
+monte mor,38
+porto seguro,38
+tres rios,38
+olimpia,38
+guanambi,38
+nova odessa,38
+capao da canoa,38
+cianorte,37
+tiete,37
+eunapolis,37
+campo largo,37
+caldas novas,36
+valparaiso de goias,36
+luis eduardo magalhaes,36
+penapolis,36
+mossoro,36
+tremembe,36
+campo bom,36
+itumbiara,36
+paracambi,35
+para de minas,35
+vassouras,35
+caucaia,35
+sobral,35
+adamantina,35
+sao sebastiao do paraiso,35
+alegrete,34
+arapongas,34
+osorio,34
+japeri,34
+imbituba,34
+jequie,34
+juazeiro do norte,34
+santa rita do sapucai,34
+santa cruz do rio pardo,34
+capivari,34
+almirante tamandare,34
+pedreira,34
+formosa,34
+telemaco borba,33
+taquaritinga,33
+maracanau,33
+camaragibe,33
+santa fe do sul,33
+rio do sul,33
+cataguases,32
+mococa,32
+monte alto,32
+cruz alta,32
+mariana,32
+seropedica,32
+formiga,32
+sao lourenco,32
+catalao,31
+itabirito,31
+guaxupe,31
+promissao,31
+montenegro,31
+santo antonio de padua,31
+cachoeira do sul,31
+sao joaquim da barra,31
+congonhas,30
+gramado,30
+ituverava,30
+santa rosa,30
+luziania,30
+alem paraiba,29
+mirassol,29
+navegantes,29
+gaspar,29
+ibiuna,29
+guaiba,29
+marechal candido rondon,29
+arapiraca,28
+itapolis,28
+santo antonio de jesus,28
+santa isabel,28
+xanxere,28
+piumhii,28
+miguel pereira,28
+garca,28
+fazenda rio grande,28
+farroupilha,28
+dracena,28
+teixeira de freitas,28
+trindade,28
+corumba,28
+orlandia,28
+cerquilho,28
+canoinhas,27
+barra bonita,27
+uniao da vitoria,27
+rio bonito,27
+itarare,27
+rolandia,27
+jales,27
+primavera do leste,27
+cambe,27
+armacao dos buzios,27
+mafra,27
+camboriu,27
+diamantina,27
+tijucas,27
+presidente venceslau,26
+porto ferreira,26
+indaial,26
+joacaba,26
+viana,26
+frutal,26
+batatais,26
+brumadinho,26
+santiago,26
+sapiranga,25
+garanhuns,25
+caceres,25
+tramandai,25
+mineiros,25
+biguacu,25
+altamira,25
+cachoeira paulista,25
+carangola,25
+caete,25
+dois vizinhos,25
+arraial do cabo,25
+matinhos,25
+lucas do rio verde,24
+cornelio procopio,24
+arcos,24
+ilha solteira,24
+carazinho,24
+campos do jordao,24
+parauapebas,24
+nanuque,24
+barra do garcas,24
+tangara da serra,24
+sarandi,24
+rio grande da serra,24
+cordeiro,24
+venancio aires,24
+piedade,23
+monte carmelo,23
+aguas lindas de goias,23
+capao bonito,23
+cravinhos,23
+aguas de lindoia,23
+jacobina,23
+holambra,23
+mairinque,23
+parnaiba,23
+gurupi,23
+santa barbara,23
+sao fidelis,23
+dias d'avila,23
+aparecida,23
+guapimirim,23
+presidente epitacio,22
+porto feliz,22
+coromandel,22
+vacaria,22
+medianeira,22
+castro,22
+aracati,22
+sao gabriel,22
+ibitinga,22
+maraba,22
+salinas,22
+irati,22
+pederneiras,21
+campo belo,21
+castanhal,21
+cabo de santo agostinho,21
+brumado,21
+januaria,21
+cachoeiras de macacu,21
+vera cruz,21
+icara,21
+piracaia,21
+pinhalzinho,21
+machado,21
+curitibanos,21
+bom jesus do itabapoana,21
+pitangui,21
+rancharia,21
+santos dumont,21
+taquara,21
+oliveira,21
+simoes filho,21
+candeias,21
+capelinha,20
+sorriso,20
+garopaba,20
+cambui,20
+carlos barbosa,20
+tres pontas,20
+santana do livramento,20
+sao gotardo,20
+juquitiba,20
+braco do norte,20
+ibiruba,20
+sao manuel,20
+marau,20
+casimiro de abreu,19
+jaguariaiva,19
+crato,19
+santo antonio de posse,19
+laranjeiras do sul,19
+tambau,19
+claudio,19
+cantagalo,19
+estancia velha,19
+monte azul paulista,19
+paraguacu paulista,19
+miracema,19
+pereira barreto,19
+monte siao,19
+nova granada,18
+ararangua,18
+quatro barras,18
+jarinu,18
+viradouro,18
+vilhena,18
+bambui,18
+picos,18
+socorro,18
+canela,18
+barao de cocais,18
+palmital,18
+paraty,18
+sarzedo,18
+boa esperanca,18
+goianesia,18
+espirito santo do pinhal,18
+senhor do bonfim,18
+espera feliz,18
+veranopolis,18
+dois irmaos,18
+cafelandia,18
+conchal,18
+sao francisco,18
+guapore,18
+guanhaes,18
+iguaba grande,18
+guararapes,18
+bonfim paulista,18
+piraju,18
+barrinha,17
+visconde do rio branco,17
+paraiba do sul,17
+paragominas,17
+floriano,17
+cerqueira cesar,17
+piuma,17
+bonito,17
+pitangueiras,17
+leopoldina,17
+mandaguari,17
+bom jardim,17
+timbo,17
+penha,17
+pompeia,17
+bom jesus dos perdoes,17
+posse,17
+igrejinha,17
+santo antonio da patrulha,17
+juina,17
+cruz das almas,17
+alegre,17
+laranjal paulista,17
+iracemapolis,17
+itapetinga,17
+jacutinga,17
+novo horizonte,17
+redencao,17
+itatiaia,17
+panambi,17
+nova venecia,17
+tucurui,17
+castelo,17
+caxambu,17
+cordeiropolis,16
+carmo do paranaiba,16
+agua boa,16
+caxias,16
+ji-parana,16
+santa vitoria,16
+santa rita do passa quatro,16
+joao pinheiro,16
+ipora,16
+janauba,16
+santana do paraiso,16
+salgueiro,16
+rio negro,16
+torres,16
+uruacu,16
+ipero,16
+ipojuca,16
+itaocara,16
+cajati,16
+taquarituba,16
+barra velha,16
+estrela,16
+morrinhos,16
+ouro fino,16
+palmeira,16
+marialva,16
+campo novo do parecis,16
+sao francisco do sul,16
+ponta pora,16
+agudos,16
+charqueadas,16
+senador canedo,16
+balsas,16
+patos,16
+candido mota,16
+manhumirim,16
+marataizes,16
+buritis,15
+jacarezinho,15
+novo gama,15
+venda nova do imigrante,15
+nova era,15
+sao borja,15
+presidente dutra,15
+lapa,15
+santa ines,15
+nova prata,15
+bombinhas,15
+sao joao da barra,15
+santo antonio do monte,15
+sao mateus do sul,15
+cunha,15
+guacui,15
+americo brasiliense,15
+sao luiz gonzaga,15
+inhumas,15
+pirai,15
+timon,15
+anchieta,15
+pariquera-acu,15
+bariri,15
+iguatu,15
+santa adelia,15
+iturama,15
+vitoria de santo antao,15
+palmeira das missoes,15
+bastos,15
+osvaldo cruz,15
+fraiburgo,15
+quirinopolis,14
+itanhandu,14
+ituporanga,14
+santa maria de jetiba,14
+iguape,14
+itabaiana,14
+vargem grande do sul,14
+nossa senhora do socorro,14
+conselheiro pena,14
+jaguare,14
+taio,14
+serrinha,14
+sao lourenco do sul,14
+sao gabriel da palha,14
+sao joao nepomuceno,14
+frederico westphalen,14
+mirassol d'oeste,14
+campos novos,14
+serra negra,14
+feliz,14
+esmeraldas,14
+chapadao do sul,14
+natividade,14
+paraisopolis,14
+paranaiba,14
+bandeirantes,14
+piraquara,14
+guariba,14
+porto uniao,14
+santo anastacio,14
+junqueiropolis,14
+sao francisco de itabapoana,14
+divino,14
+almenara,14
+pirapora do bom jesus,14
+miguelopolis,13
+casa branca,13
+niquelandia,13
+eldorado do sul,13
+taiobeiras,13
+porangatu,13
+santa cruz do capibaribe,13
+rio negrinho,13
+triunfo,13
+carmo,13
+jardinopolis,13
+tupaciguara,13
+serrana,13
+barra de sao joao,13
+eusebio,13
+conceicao de macabu,13
+parati,13
+paraguacu,13
+sao simao,13
+cangucu,13
+bom jesus,13
+petrolandia,13
+santana,13
+quissama,13
+quata,13
+salto de pirapora,13
+aperibe,13
+quixada,13
+ivoti,13
+itaporanga,13
+cacoal,13
+italva,13
+ipameri,13
+santa maria da vitoria,13
+laguna,13
+pontal,13
+imbe,13
+ibirama,13
+camaqua,13
+pinheiral,13
+pirapozinho,13
+igarassu,13
+guaramirim,13
+mangaratiba,13
+maracaju,13
+loanda,13
+lagoa vermelha,13
+descalvado,13
+marituba,13
+teodoro sampaio,13
+aluminio,13
+sao jose de ribamar,13
+pojuca,13
+santo amaro da imperatriz,12
+araripina,12
+brotas,12
+santa rosa de viterbo,12
+santa vitoria do palmar,12
+itamaraju,12
+santa helena,12
+itapecerica,12
+irece,12
+cajazeiras,12
+tres de maio,12
+rosario do sul,12
+sacramento,12
+itapiranga,12
+tres marias,12
+sao goncalo do amarante,12
+sao jose do vale do rio preto,12
+macatuba,12
+pirajui,12
+pilar do sul,12
+matozinhos,12
+matias barbosa,12
+teutonia,12
+lucelia,12
+sao miguel arcanjo,12
+sao pedro,12
+ariquemes,12
+jose bonifacio,12
+assis chateaubriand,12
+ibipora,12
+ibate,12
+sao lourenco da serra,12
+sao lourenco da mata,12
+goiana,12
+paty do alferes,12
+flores da cunha,12
+maravilha,12
+sao sebastiao do cai,12
+forquilhinha,12
+bocaiuva,12
+mirandopolis,12
+parobe,12
+mendes,12
+belo jardim,12
+capanema,12
+engenheiro coelho,12
+tabapua,12
+chavantes,12
+conceicao do mato dentro,12
+cesario lange,12
+barroso,11
+nova andradina,11
+varzea da palma,11
+tapejara,11
+tanabi,11
+capinopolis,11
+encantado,11
+faxinal dos guedes,11
+taquari,11
+tapiratiba,11
+goioere,11
+canarana,11
+alvinopolis,11
+dois corregos,11
+treze tilias,11
+gravata,11
+goitacazes,11
+guararema,11
+andradas,11
+igarape,11
+sao joao batista,11
+sao joao,11
+santo antonio da platina,11
+santa gertrudes,11
+itapipoca,11
+aracoiaba da serra,11
+tres passos,11
+carandai,11
+coxim,11
+costa rica,11
+araquari,11
+rio das pedras,11
+rio brilhante,11
+raul soares,11
+lagarto,11
+raposos,11
+pires do rio,11
+limoeiro do norte,11
+prata,11
+pompeu,11
+mantena,11
+bacabal,11
+mata de sao joao,11
+boa esperanca do sul,11
+bezerros,11
+ouroeste,11
+coronel vivida,11
+afonso claudio,11
+abaetetuba,11
+abaete,11
+catu,10
+sao miguel do iguacu,10
+minacu,10
+mimoso do sul,10
+escada,10
+planaltina,10
+sao lourenco do oeste,10
+aguai,10
+sao goncalo do sapucai,10
+aguas da prata,10
+aimores,10
+urupes,10
+urussanga,10
+fartura,10
+brejo santo,10
+papucaia,10
+caico,10
+charqueada,10
+palestina,10
+lagoa da prata,10
+balneario picarras,10
+portao,10
+biritiba-mirim,10
+itajobi,10
+itai,10
+caetite,10
+antonina,10
+floresta,10
+serra talhada,10
+paicandu,10
+dom pedrito,10
+piracanjuba,10
+passa quatro,10
+carpina,10
+querencia,10
+buri,10
+campina grande do sul,10
+resplendor,10
+carmo do cajuru,10
+rolante,10
+embu,10
+nova xavantina,10
+capinzal,10
+caconde,10
+auriflama,10
+corinto,10
+eloi mendes,10
+castilho,10
+cambara,10
+campo formoso,10
+julio de castilhos,10
+campo verde,10
+paranapanema,10
+brodowski,10
+paraiso do tocantins,10
+morro agudo,10
+palotina,10
+paraibuna,10
+goiatuba,10
+turmalina,10
+garibaldi,10
+juquia,10
+sombrio,10
+ipira,10
+guarabira,10
+regente feijo,10
+morada nova,10
+taguai,10
+mostardas,10
+taua,10
+alta floresta,10
+campina verde,10
+itaberaba,10
+pradopolis,10
+salesopolis,10
+pinheiros,9
+duartina,9
+dourado,9
+planalto,9
+piratininga,9
+xaxim,9
+cicero dantas,9
+schroeder,9
+cedral,9
+estancia,9
+mateus leme,9
+sao joaquim,9
+faxinal,9
+andira,9
+abreu e lima,9
+xinguara,9
+sao marcos,9
+porecatu,9
+itamonte,9
+mar de espanha,9
+pomerode,9
+paraopeba,9
+santa helena de goias,9
+santa juliana,9
+cajuru,9
+monte santo de minas,9
+monte aprazivel,9
+aracuai,9
+aracariguama,9
+arroio do meio,9
+sidrolandia,9
+sobradinho,9
+santa teresa,9
+canaa dos carajas,9
+sumidouro,9
+colorado,9
+primavera,9
+alto paraiso de goias,9
+pontes e lacerda,9
+porto belo,9
+itaguacu,9
+nova ponte,9
+serafina correa,9
+piquete,9
+braganca,9
+girua,9
+santo amaro,9
+palmares,9
+siqueira campos,9
+potirendaba,9
+conceicao do coite,9
+conchas,9
+macaubas,9
+camanducaia,9
+borborema,9
+rondon do para,9
+russas,9
+queimadas,9
+guaratuba,9
+nepomuceno,9
+buritizeiro,9
+santa cruz das palmeiras,9
+santa branca,9
+guara,9
+guaranesia,9
+taruma,9
+crateus,9
+pedro de toledo,9
+penedo,9
+ibaiti,9
+arapoti,9
+jequitinhonha,9
+herval d'oeste,9
+mangueirinha,9
+pesqueira,9
+buritama,9
+barra de sao francisco,9
+bom jesus da lapa,9
+rio paranaiba,9
+pau dos ferros,9
+tiangua,9
+ibia,9
+lindoia,9
+itapoa,9
+itaqui,9
+baependi,8
+martinopolis,8
+piranguinho,8
+coroata,8
+cacu,8
+ibatiba,8
+bom jardim de minas,8
+pirangi,8
+arinos,8
+aripuana,8
+teotonio vilela,8
+correia pinto,8
+cristalina,8
+perdizes,8
+carmo do rio claro,8
+camamu,8
+perdoes,8
+icem,8
+ribeira do pombal,8
+ico,8
+rio acima,8
+camocim,8
+cambuci,8
+mutum,8
+muzambinho,8
+navirai,8
+cristina,8
+ipaba,8
+trajano de moraes,8
+guaicara,8
+baixo guandu,8
+jandaia do sul,8
+jaguarao,8
+nhandeara,8
+tucano,8
+pinhao,8
+cidade ocidental,8
+valparaiso,8
+domingos martins,8
+alvares machado,8
+angatuba,8
+anicuns,8
+marilandia,8
+caetanopolis,8
+sao luis de montes belos,8
+lambari,8
+afogados da ingazeira,8
+lauro muller,8
+mirai,8
+pirapetinga,8
+sao joaquim de bicas,8
+poco fundo,8
+ortigueira,8
+orleans,8
+sao jose da lapa,8
+dores de campos,8
+getulio vargas,8
+pontal do parana,8
+currais novos,8
+soledade,8
+cocal,8
+itacare,8
+simonesia,8
+jacare,8
+maracai,8
+porto nacional,8
+astolfo dutra,8
+itambe,8
+itaiopolis,8
+botelhos,8
+santo antonio do jacinto,8
+palmeira dos indios,8
+brasilia de minas,8
+cananeia,8
+arraial d'ajuda,8
+nova europa,8
+papanduva,8
+nova esperanca,8
+nova londrina,8
+arroio dos ratos,8
+codo,8
+cajobi,8
+goias,8
+goianira,8
+bilac,8
+colina,8
+colider,8
+joao neiva,8
+mambore,8
+ipiau,8
+ouricuri,8
+sapezal,8
+santo augusto,8
+fervedouro,8
+sao felix do xingu,8
+ecoporanga,8
+nova petropolis,8
+encruzilhada do sul,8
+piedade de caratinga,7
+neropolis,7
+prudentopolis,7
+itabera,7
+inhambupe,7
+santa albertina,7
+campo ere,7
+inhapim,7
+mucuri,7
+morungaba,7
+ribeirao bonito,7
+igarapava,7
+horizontina,7
+areado,7
+arceburgo,7
+santa cecilia,7
+rubiataba,7
+ruy barbosa,7
+madre de deus,7
+teixeiras,7
+conceicao do araguaia,7
+quedas do iguacu,7
+ipanema,7
+malacacheta,7
+campanha,7
+terra roxa,7
+confresa,7
+areal,7
+ibotirama,7
+bayeux,7
+limoeiro,7
+bela vista de goias,7
+xangri-la,7
+catende,7
+eldorado,7
+bom conselho,7
+acopiara,7
+tocantinopolis,7
+bady bassitt,7
+itapuranga,7
+vila valerio,7
+vila muriqui,7
+ceu azul,7
+casca,7
+avanhandava,7
+ibira,7
+timbauba,7
+terra rica,7
+rodeio,7
+rolim de moura,7
+hidrolandia,7
+campinorte,7
+passo de torres,7
+jaragua,7
+imbituva,7
+santa maria madalena,7
+nova veneza,7
+itamarandiba,7
+chapadao do ceu,7
+silvania,7
+simao dias,7
+aparecida do taboado,7
+potiragua,7
+barra do corda,7
+ubirata,7
+porciuncula,7
+santa rita,7
+santa rita do araguaia,7
+sousa,7
+montanha,7
+balneario pinhal,7
+luis antonio,7
+cruz,7
+ipaussu,7
+crixas,7
+cabedelo,7
+campo maior,7
+morro do chapeu,7
+comendador levy gasparian,7
+presidente getulio,7
+alto do rodrigues,7
+cruzeiro do oeste,7
+cruzeiro do sul,7
+dianopolis,7
+campos belos,7
+sao francisco de paula,7
+sao cristovao,7
+divinolandia,7
+marmeleiro,7
+ceres,7
+pimenta bueno,7
+cerro largo,7
+pirai do sul,7
+lagoa formosa,7
+lagoa grande,7
+sao joao dos patos,7
+paco do lumiar,7
+sao domingos,7
+sao domingos do norte,7
+santo cristo,7
+nova russas,7
+sao bento do sapucai,7
+sao gabriel do oeste,7
+sao joao evangelista,7
+itapui,7
+espumoso,7
+piripiri,7
+missal,7
+sao jeronimo,7
+cachoeira de minas,7
+sao raimundo nonato,7
+ivaipora,7
+ervalia,7
+sao jose do norte,7
+nucleo residencial pilar,7
+lajedo,7
+ampere,7
+acailandia,7
+acreuna,7
+virginopolis,7
+acarau,6
+itariri,6
+cabreuva,6
+itobi,6
+bocaina,6
+mata verde,6
+aguas belas,6
+entre rios de minas,6
+entre rios,6
+engenheiro paulo de frontin,6
+novo cruzeiro,6
+abelardo luz,6
+catole do rocha,6
+catigua,6
+piratuba,6
+itapejara d'oeste,6
+itapaje,6
+itapura,6
+pinhalao,6
+esplanada,6
+espinosa,6
+espigao do oeste,6
+sao jose do calcado,6
+oeiras,6
+uruara,6
+valente,6
+itaobim,6
+astorga,6
+assai,6
+itambacuri,6
+itaipulandia,6
+porto real,6
+jacunda,6
+bicas,6
+monte alegre do sul,6
+barreiros,6
+orizona,6
+esperanca,6
+dores do indaia,6
+primeiro de maio,6
+conceicao da aparecida,6
+comodoro,6
+ubaira,6
+turvo,6
+tupi paulista,6
+bom principio,6
+presidente bernardes,6
+irapuru,6
+itaberai,6
+butia,6
+quixeramobim,6
+morro da fumaca,6
+seabra,6
+sapucaia,6
+sao joao do piaui,6
+sao joao do paraiso,6
+sao jose da barra,6
+brazopolis,6
+ipora do oeste,6
+tres coroas,6
+tres cachoeiras,6
+indianopolis,6
+camapua,6
+camacan,6
+california da barra,6
+regeneracao,6
+reboucas,6
+realeza,6
+mundo novo,6
+mozarlandia,6
+pacajus,6
+pacaja,6
+pacaembu,6
+sao sepe,6
+trancoso,6
+rio das flores,6
+rio branco do sul,6
+carlopolis,6
+cosmorama,6
+coribe,6
+alfredo chaves,6
+tocantins,6
+jaru,6
+bananal,6
+rio pardo,6
+rio novo do sul,6
+seara,6
+amambai,6
+sao goncalo do rio abaixo,6
+fernando prestes,6
+rio largo,6
+iacanga,6
+benedito novo,6
+nao-me-toque,6
+mamanguape,6
+mallet,6
+carmo da mata,6
+rio pomba,6
+ronda alta,6
+jeremoabo,6
+barra da estiva,6
+barcarena,6
+fronteira,6
+carai,6
+barbalha,6
+sabinopolis,6
+cardoso moreira,6
+alpinopolis,6
+borda da mata,6
+campinas do sul,6
+sananduva,6
+taguatinga,6
+taquaritinga do norte,6
+tapes,6
+sales oliveira,6
+guapo,6
+guapiacu,6
+canavieiras,6
+nova trento,6
+nova santa rita,6
+nova prata do iguacu,6
+santa cruz,6
+guarani,6
+nazare paulista,6
+cardoso,6
+tangua,6
+parapua,6
+santa isabel do para,6
+gravatal,6
+campos de julio,6
+general salgado,6
+santo amaro de campos,6
+santa rita de caldas,6
+apiuna,6
+apiai,6
+apiaca,6
+cassia,6
+casa nova,6
+cachoeira alta,6
+cabrobo,6
+catanduvas,6
+bofete,6
+medina,6
+medeiros neto,6
+ze doca,5
+adolfo,5
+mendes pimentel,5
+mendonca,5
+abre campo,5
+sao miguel do guama,5
+sao miguel do araguaia,5
+lima duarte,5
+novo progresso,5
+elias fausto,5
+itauba,5
+itau de minas,5
+itapagipe,5
+ladario,5
+fundao,5
+severinia,5
+alto araguaia,5
+sooretama,5
+vazante,5
+pinheiro machado,5
+sao tiago,5
+sao jose do ouro,5
+capim grosso,5
+andorinha,5
+orindiuva,5
+laurentino,5
+alto parnaiba,5
+general carneiro,5
+soledade de minas,5
+sirinhaem,5
+santo antonio do jardim,5
+santo antonio do descoberto,5
+garuva,5
+palmitos,5
+lagoa da confusao,5
+lago da pedra,5
+utinga,5
+cidade gaucha,5
+cidreira,5
+aguas formosas,5
+colombia,5
+jordania,5
+paraiso,5
+panorama,5
+juruaia,5
+barra do ribeiro,5
+nova mutum,5
+nova fatima,5
+pombal,5
+porto xavier,5
+porteirinha,5
+una,5
+marechal floriano,5
+maragogi,5
+tabatinga,5
+surubim,5
+sud mennucci,5
+custodia,5
+guabiruba,5
+santa quiteria,5
+canapolis,5
+campos gerais,5
+juara,5
+bonfim,5
+jacupiranga,5
+balsamo,5
+bituruna,5
+monte belo,5
+monte azul,5
+estiva gerbi,5
+estacao,5
+sao roque do canaa,5
+sao romao,5
+esperantina,5
+caldas,5
+paramirim,5
+granja,5
+campos altos,5
+aracoiaba,5
+diamante do norte,5
+tabira,5
+arroio do sal,5
+iraquara,5
+presidente olegario,5
+colonia vitoria,5
+prado,5
+santa cruz cabralia,5
+macau,5
+macaiba,5
+carapebus,5
+buenopolis,5
+ipumirim,5
+jaiba,5
+jaguaribe,5
+mandaguacu,5
+moreno,5
+bom sucesso,5
+carmopolis de minas,5
+dom eliseu,5
+eugenopolis,5
+euclides da cunha,5
+cansancao,5
+brauna,5
+trombudo central,5
+quatro bocas,5
+quatis,5
+palmeira d'oeste,5
+altos,5
+bataguassu,5
+divinolandia de minas,5
+santa fe,5
+quatigua,5
+rafard,5
+ariranha,5
+torrinha,5
+toritama,5
+tombos,5
+conceicao do rio verde,5
+conceicao do castelo,5
+tres fronteiras,5
+tres barras,5
+perdigao,5
+tarabai,5
+guaranta,5
+guaraniacu,5
+santa barbara d oeste,5
+pedro canario,5
+jardim,5
+remanso,5
+pacatuba,5
+ourilandia do norte,5
+otacilio costa,5
+caninde,5
+sao sebastiao do passe,5
+dom feliciano,5
+conquista,5
+terra de areia,5
+roseira,5
+guarei,5
+guaranta do norte,5
+taiuva,5
+japura,5
+pedra preta,5
+pedra azul,5
+jeceaba,5
+jauru,5
+cambuquira,5
+ribeirao do pinhal,5
+ribeirao claro,5
+inacio martins,5
+sao bento,5
+sao benedito,5
+santo estevao,5
+frei inocencio,5
+sao bento do una,5
+capivari de baixo,5
+capitolio,5
+capitao leonidas marques,5
+serra dos aimores,5
+sales,5
+iepe,5
+iconha,5
+rio casca,5
+rio azul,5
+icapui,5
+ibirarema,5
+arcoverde,5
+araujos,5
+araruna,5
+arapora,5
+belo oriente,5
+rio pardo de minas,5
+horizonte,5
+holambra ii,5
+jesuania,5
+alexania,5
+igarata,5
+pecanha,5
+peabiru,5
+paulo de faria,5
+bananeiras,5
+ibicarai,5
+senges,5
+anita garibaldi,5
+firminopolis,5
+lagoa dourada,5
+rio manso,5
+miguel calmon,5
+aurora,5
+piritiba,5
+miracatu,5
+agua branca,5
+ocaucu,5
+livramento de nossa senhora,5
+vargem bonita,5
+vargem alta,5
+martins soares,5
+cacapava do sul,5
+catas altas,5
+cassilandia,5
+matupa,5
+merces,4
+milagres,4
+minas novas,4
+maurilandia,4
+castelandia,4
+cacequi,4
+cachoeira,4
+vila dos cabanos,4
+catuipe,4
+chapada,4
+pirenopolis,4
+agua doce do norte,4
+centenario do sul,4
+boa vista da aparecida,4
+miranda,4
+sertanopolis,4
+sertania,4
+carajas,4
+varre-sai,4
+varjota,4
+pinheiro,4
+sao jose do egito,4
+sao jose do cedro,4
+capao do leao,4
+analandia,4
+lavinia,4
+uruana,4
+urbano santos,4
+cocal do sul,4
+santana do jacare,4
+glicerio,4
+rio preto,4
+mutuipe,4
+muqui,4
+carmo da cachoeira,4
+rio piracicaba,4
+humaita,4
+jesuitas,4
+parelhas,4
+sideropolis,4
+tiradentes,4
+timburi,4
+tibagi,4
+paulo frontin,4
+joanopolis,4
+jijoca de jericoacoara,4
+ibiraci,4
+rianapolis,4
+riacho de santana,4
+antonio prado,4
+anta gorda,4
+anta,4
+sapucai-mirim,4
+parauna,4
+joaquim nabuco,4
+igaracu do tiete,4
+rio bonito do iguacu,4
+rio bananal,4
+rio do campo,4
+arealva,4
+corupa,4
+corumbaiba,4
+araputanga,4
+guimarania,4
+corrente,4
+terra boa,4
+teolandia,4
+altinopolis,4
+nazare,4
+rosana,4
+roque gonzales,4
+salto veloso,4
+salto do lontra,4
+guaruja do sul,4
+japuiba,4
+pedrinhas paulista,4
+jatoba,4
+cameta,4
+ribeirao,4
+iguatama,4
+riachao do jacuipe,4
+munhoz de melo,4
+munhoz,4
+mantenopolis,4
+manoel ribas,4
+padre bernardo,4
+ouro preto do oeste,4
+feira nova,4
+sao sebastiao do alto,4
+eneas marques,4
+dom silverio,4
+conservatoria,4
+congonhal,4
+travessao,4
+renascenca,4
+cuite,4
+cristais paulista,4
+crisopolis,4
+tarumirim,4
+salto do jacui,4
+saltinho,4
+guarai,4
+guaraciaba do norte,4
+guaraci,4
+guaracai,4
+peixoto de azevedo,4
+inaja,4
+imbuia,4
+ilhota,4
+ilha de itamaraca,4
+ilha comprida,4
+palma sola,4
+palma,4
+candido de abreu,4
+candelaria,4
+forquilha,4
+nova santa rosa,4
+campo do meio,4
+santa cruz de monte castelo,4
+santa cruz de minas,4
+conceicao dos ouros,4
+alcobaca,4
+alcinopolis,4
+buriticupu,4
+pejucara,4
+tailandia,4
+cunha pora,4
+balneario arroio do silva,4
+jambeiro,4
+jaguaruana,4
+caarapo,4
+quintana,4
+morretes,4
+bom repouso,4
+saudades,4
+saudade do iguacu,4
+fazenda nova,4
+fatima do sul,4
+brejo da madre de deus,4
+tucuma,4
+quilombo,4
+juti,4
+palmares do sul,4
+quarai,4
+irapua,4
+arandu,4
+araguatins,4
+buerarema,4
+macedonia,4
+nova bassano,4
+nova bandeirantes,4
+nova aurora,4
+tanhacu,4
+bueno brandao,4
+joao lisboa,4
+paranaita,4
+ipua,4
+ipu,4
+itabela,4
+goianapolis,4
+arace,4
+aquidauana,4
+santa maria de itabira,4
+alto jequitiba,4
+diamantino,4
+cruzilia,4
+irineopolis,4
+propria,4
+presidente tancredo neves,4
+condor,4
+condado,4
+ubaitaba,4
+uaua,4
+bom jesus do norte,4
+bom jesus do galho,4
+pien,4
+balneario barra do sul,4
+maracacume,4
+bernardino de campos,4
+colinas,4
+barro,4
+barreirinhas,4
+edeia,4
+sao sebastiao da grama,4
+dumont,4
+dores do rio preto,4
+sao tomas de aquino,4
+ascurra,4
+grajau,4
+governador portela,4
+santa lucia,4
+monte alegre de minas,4
+maravilhas,4
+delmiro gouveia,4
+guadalupe,4
+santa mariana,4
+campos sales,4
+gouveia,4
+jucurutu,4
+juatuba,4
+maracas,4
+moju,4
+coaraci,4
+jacui,4
+jacinto machado,4
+pilar,4
+pilao arcado,4
+paraipaba,4
+paracuru,4
+jussara,4
+silva jardim,4
+nova olinda do maranhao,4
+nova olinda,4
+curiuva,4
+alto rio doce,4
+itanhomi,4
+itaitinga,4
+pongai,4
+itaipava,4
+posto da mata,4
+cocalinho,4
+uibai,4
+conceicao das pedras,4
+santo antonio do amparo,4
+santo antonio das missoes,4
+santanesia,4
+palmitinho,4
+valenca do piaui,4
+maristela,4
+clementina,4
+claudia,4
+aiuruoca,4
+chui,4
+chopinzinho,4
+chapada gaucha,4
+chapada dos guimaraes,4
+urucui,4
+caiaponia,4
+joviania,4
+mario campos,4
+volta grande,4
+itatinga,4
+bela cruz,4
+eliseu martins,4
+itaperucu,4
+itapemirim,4
+itapecuru mirim,4
+itapaci,4
+poco verde,4
+piranga,4
+santana do acarau,4
+santana da vargem,4
+gandu,4
+gameleira,4
+sete barras,4
+ibiam,4
+serra do ramalho,4
+senador pompeu,4
+canelinha,4
+candiota,4
+sao geraldo,4
+figueira,4
+sao domingos do prata,4
+florida paulista,4
+rio novo,4
+iapu,4
+iacu,4
+iaciara,4
+avelar,4
+cabralia paulista,4
+itiuba,4
+abatia,3
+virgem da lapa,3
+catarina,3
+xambioa,3
+witmarsum,3
+castanheira,3
+matipo,3
+xique-xique,3
+varzelandia,3
+ventania,3
+cedro de sao joao,3
+boa viagem,3
+mirandiba,3
+mirinzal,3
+maripa,3
+urupa,3
+urutai,3
+vale real,3
+valentim gentil,3
+vargem alegre,3
+cerro azul,3
+upanema,3
+urai,3
+urania,3
+itamari,3
+itapissuma,3
+itapitanga,3
+pocrane,3
+ataleia,3
+augusto correa,3
+itaoca,3
+caiana,3
+caibi,3
+pindare mirim,3
+pindobacu,3
+ituacu,3
+itubera,3
+piumhi,3
+pocinhos,3
+pitanga,3
+ita,3
+arroio grande,3
+arrozal,3
+arvorezinha,3
+caldeirao grande,3
+itacarambi,3
+balneario gaivota,3
+balneario rincao,3
+jacaraci,3
+jaciara,3
+pote,3
+poloni,3
+ponte serrada,3
+itaituba,3
+itaja,3
+itajuipe,3
+quinta do sol,3
+quixabeira,3
+ipiabas,3
+ipiacu,3
+piedade do rio grande,3
+piedade dos gerais,3
+jaguari,3
+ipubi,3
+ipueiras,3
+irani,3
+prudente de morais,3
+quadra,3
+pouso alto,3
+pouso redondo,3
+prados,3
+presidente medici,3
+imaculada,3
+imigrante,3
+recreio,3
+reginopolis,3
+indiana,3
+pedrinopolis,3
+pedro afonso,3
+pedro osorio,3
+pereiro,3
+ipiranga,3
+areias,3
+areiopolis,3
+quixere,3
+indiapora,3
+indiara,3
+inubia paulista,3
+inaciolandia,3
+ribeira,3
+campestre,3
+pedra,3
+pedra bela,3
+pedra branca,3
+pedralva,3
+pedreiras,3
+janiopolis,3
+japira,3
+jaqueira,3
+reriutaba,3
+resende costa,3
+reserva,3
+restinga seca,3
+ilopolis,3
+ibiai,3
+ibiapina,3
+ibicoara,3
+ibimirim,3
+joao alfredo,3
+patu,3
+bandeira,3
+pauliceia,3
+paulistana,3
+jardim do serido,3
+areia branca,3
+areia branca dos assis,3
+rio de contas,3
+rio do oeste,3
+ribeirao do sul,3
+rinopolis,3
+saloa,3
+salto do ceu,3
+rubim,3
+sabino,3
+campo alegre,3
+joao ramalho,3
+riolandia,3
+riqueza,3
+ritapolis,3
+rodelas,3
+herculandia,3
+hidreletrica tucurui,3
+rio real,3
+iati,3
+rio do pires,3
+rio fortuna,3
+santa fe de goias,3
+santa isabel do ivai,3
+santa margarida,3
+grao mogol,3
+grao para,3
+parambu,3
+paranacity,3
+paranaiguara,3
+santa cruz da conceicao,3
+guajara-mirim,3
+sanclerlandia,3
+sangao,3
+sanharo,3
+guapiara,3
+guaraciaba,3
+salgado filho,3
+jundiai do sul,3
+juruena,3
+pantano grande,3
+papagaios,3
+parai,3
+paraibano,3
+joaquim tavora,3
+jose de freitas,3
+goncalves,3
+governador celso ramos,3
+campos borges,3
+camutanga,3
+araci,3
+aragarcas,3
+goianesia do para,3
+goianinha,3
+gameleiras,3
+garrafao do norte,3
+santa rita d'oeste,3
+santa rita de minas,3
+santa tereza do oeste,3
+santa terezinha de itaipu,3
+santaluz,3
+santana do araguaia,3
+santana do cariri,3
+gaurama,3
+barra do bugres,3
+barra do choca,3
+barra do mendes,3
+barra do turvo,3
+barra dos coqueiros,3
+barracao,3
+francisco badaro,3
+francisco sa,3
+formoso,3
+formoso do araguaia,3
+candido sales,3
+lagoinha,3
+palmeiras de goias,3
+gastao vidigal,3
+santana do manhuacu,3
+santana do mundau,3
+santo antonio da alegria,3
+santo antonio do itambe,3
+santo antonio do sudoeste,3
+fortuna,3
+apodi,3
+fronteiras,3
+sao joao batista do gloria,3
+sao joao d'alianca,3
+angulo,3
+sao joao de iracema,3
+sao joao do manteninha,3
+sao joao do triunfo,3
+ouro verde,3
+lagoa dos gatos,3
+florestal,3
+florestopolis,3
+formosa do rio preto,3
+sao francisco do conde,3
+sao goncalo do para,3
+antonio carlos,3
+antonio prado de minas,3
+sao bernardo,3
+capela do alto,3
+sao jose de uba,3
+sao jose do cerrito,3
+estreito,3
+estrela do norte,3
+oroco,3
+barras,3
+barro alto,3
+breu branco,3
+barros cassal,3
+oscar bressane,3
+capao do cipo,3
+sao jose da bela vista,3
+fatima,3
+sao jose de mipibu,3
+sao goncalo do rio preto,3
+sao pedro da uniao,3
+entre rios do oeste,3
+entre-ijuis,3
+novo sao joaquim,3
+nuporanga,3
+olindina,3
+lajinha,3
+lavras do sul,3
+oriente,3
+sao jose do turvo,3
+andrelandia,3
+sao ludgero,3
+sao luis do paraitinga,3
+sao martinho,3
+sao mateus do maranhao,3
+esperantinopolis,3
+sao valentim,3
+sao vicente ferrer,3
+sao pedro do ivai,3
+sao pedro dos ferros,3
+batalha,3
+baturite,3
+beberibe,3
+bela vista,3
+bela vista do paraiso,3
+novo oriente,3
+liberdade,3
+sao miguel,3
+sao miguel do guapore,3
+sao miguel do tapuio,3
+amelia rodrigues,3
+americano do brasil,3
+serranopolis,3
+serrolandia,3
+sertao,3
+setubinha,3
+dionisio cerqueira,3
+dois irmaos do buriti,3
+nova soure,3
+lobato,3
+brasil novo,3
+lontras,3
+altonia,3
+capitao poco,3
+dom pedro,3
+alto taquari,3
+sao sebastiao do maranhao,3
+sao tome,3
+sucesso,3
+curaca,3
+cururupu,3
+nova canaa do norte,3
+nova cantu,3
+nova erechim,3
+nova hartz,3
+nova monte verde,3
+luiziania,3
+luminarias,3
+lupercio,3
+silveiras,3
+deputado irapuan pinheiro,3
+descoberto,3
+dom aquino,3
+dom basilio,3
+carambei,3
+caraubas,3
+caravelas,3
+carbonita,3
+neves paulista,3
+nova alvorada,3
+nova alvorada do sul,3
+luzilandia,3
+machadinho d'oeste,3
+delfinopolis,3
+sume,3
+tabocas do brejo velho,3
+cruz machado,3
+cruzalia,3
+alto boa vista,3
+alto santo,3
+carlos chagas,3
+carmo de minas,3
+terra nova do norte,3
+belo campo,3
+belo vale,3
+alta floresta d'oeste,3
+alterosa,3
+alto alegre,3
+tenente portela,3
+teofilandia,3
+taquarivai,3
+cristais,3
+cristal,3
+cristalandia,3
+cristalia,3
+tanque novo,3
+tres arroios,3
+coracao de jesus,3
+corbelia,3
+manoel viana,3
+morro reuter,3
+motuca,3
+madre de deus de minas,3
+maioba,3
+major vieira,3
+timbe do sul,3
+tiros,3
+alfredo vasconcelos,3
+coremas,3
+coruripe,3
+carire,3
+carius,3
+carrancas,3
+carvalhopolis,3
+tuparetama,3
+bom retiro do sul,3
+morada nova de minas,3
+moreira sales,3
+manduri,3
+manga,3
+alambari,3
+conceicao do jacuipe,3
+conceicao do para,3
+conceicao do tocantins,3
+concordia do para,3
+coronel joao sa,3
+tomazina,3
+toropi,3
+umbauba,3
+uniao de minas,3
+coelho neto,3
+colinas do tocantins,3
+colniza,3
+monte verde,3
+ubajara,3
+colorado do oeste,3
+coluna,3
+conceicao da barra,3
+conceicao das alagoas,3
+trindade do sul,3
+tucunduva,3
+tupancireta,3
+tupandi,3
+carneirinho,3
+urubici,3
+chapadinha,3
+colonia castrolanda,3
+aguas de santa barbara,3
+aguas de sao pedro,3
+aguas vermelhas,3
+clevelandia,3
+mombuca,3
+monsenhor tabosa,3
+montalvania,3
+maranguape,3
+marco,3
+mari,3
+maria da fe,3
+ubaporanga,3
+uchoa,3
+vitorino freire,3
+abadia dos dourados,3
+acu,3
+maximiliano de almeida,3
+meleiro,3
+mineiros do tiete,3
+massaranduba,3
+vera,3
+vera cruz do oeste,3
+vere,3
+verissimo,3
+vianopolis,3
+vigia,3
+vila flores,3
+vila langaro,3
+vila rica,3
+itapora,3
+cachoeira de pajeu,3
+cachoeira dourada,3
+cacule,3
+ivate,3
+ivinhema,3
+jaborandi,3
+itinga,3
+itirucu,3
+cabo verde,3
+piranhas,3
+azurita,3
+itarana,3
+itarantim,3
+itatim,3
+vista alegre do alto,3
+zortea,2
+abaiara,2
+abaira,2
+abare,2
+zacarias,2
+abrantes,2
+acaiaca,2
+caturama,2
+catu de abrantes,2
+vila nova,2
+vila nelita,2
+victor graeff,2
+medeiros,2
+maua da serra,2
+matutina,2
+matrincha,2
+matoes do norte,2
+mato verde,2
+mato leitao,2
+bom jesus das selvas,2
+bom jesus da serra,2
+vicentinopolis,2
+vicencia,2
+vereda,2
+venturosa,2
+celso ramos,2
+mata grande,2
+massape,2
+mascote,2
+martins,2
+martinho campos,2
+milha,2
+meruoca,2
+mercedes,2
+celina,2
+ceara-mirim,2
+agua santa,2
+agua comprida,2
+agua clara,2
+agronomica,2
+varzea alegre,2
+varjao de minas,2
+chapada do norte,2
+chale,2
+chacara,2
+boca da mata,2
+boa vista do gurupi,2
+materlandia,2
+matelandia,2
+mata roma,2
+cerro grande do sul,2
+vargem,2
+chaveslandia,2
+charrua,2
+uruoca,2
+urucurituba,2
+urucuca,2
+urandi,2
+mariapolis,2
+mirante do paranapanema,2
+miranorte,2
+miraima,2
+aguia branca,2
+colonia jordaozinho,2
+colmeia,2
+ubata,2
+conceicao da feira,2
+conceicao,2
+colonia leopoldina,2
+tutoia,2
+turvolandia,2
+turvania,2
+tuparendi,2
+carutapera,2
+carolina,2
+carnaubal,2
+carnaubais,2
+monnerat,2
+mondai,2
+moncoes,2
+mojui dos campos,2
+mogi-mirim,2
+marinopolis,2
+mariluz,2
+carmopolis,2
+carmo do rio verde,2
+tunas do parana,2
+conde,2
+monte gordo,2
+monte formoso,2
+monte castelo,2
+monte carlo,2
+monte alegre,2
+maragogipe,2
+maracana,2
+montauri,2
+alagoinha,2
+ajuricaba,2
+coqueiro baixo,2
+congonhinhas,2
+trairi,2
+tracunhaem,2
+coronel macedo,2
+coroados,2
+coroaci,2
+tomar do geru,2
+tocos,2
+alianca do tocantins,2
+alhandra,2
+alfredo wagner,2
+mara rosa,2
+montezuma,2
+bias fortes,2
+alexandria,2
+tobias barreto,2
+carlinda,2
+caririacu,2
+cariri do tocantins,2
+costa marques,2
+corumbatai,2
+corumba de goias,2
+cortes,2
+correntina,2
+tejupa,2
+teixeira soares,2
+mandirituba,2
+morpara,2
+moreilandia,2
+bom jesus do tocantins,2
+altinho,2
+altaneira,2
+altamira do parana,2
+cristiano otoni,2
+crissiumal,2
+crisolita,2
+coxilha,2
+couto de magalhaes,2
+mairi,2
+magda,2
+mae do rio,2
+cotriguacu,2
+alpercata,2
+taquaracu de minas,2
+tapiramuta,2
+tapirai,2
+carinhanha,2
+careacu,2
+cristopolis,2
+tamarana,2
+cumaru,2
+cumari,2
+cubati,2
+cruzeiro da fortaleza,2
+taciba,2
+tacaratu,2
+tabuleiro,2
+tabapora,2
+sucupira do norte,2
+david canabarro,2
+narandiba,2
+murutinga do sul,2
+muquem do sao francisco,2
+muniz freire,2
+mambai,2
+dario meira,2
+damianopolis,2
+curuca,2
+alto rio novo,2
+alto parana,2
+alto paraiso,2
+alto horizonte,2
+alto garcas,2
+alto caparao,2
+diogo de vasconcelos,2
+boqueirao do leao,2
+boninal,2
+bonfinopolis de minas,2
+bonfinopolis,2
+bento de abreu,2
+benevides,2
+belmonte,2
+belem do sao francisco,2
+deodapolis,2
+denise,2
+sonora,2
+solonopole,2
+sitio novo,2
+sitio do quinto,2
+nossa senhora da gloria,2
+nonoai,2
+nipoa,2
+nazario,2
+nazareno,2
+borrazopolis,2
+sinimbu,2
+simolandia,2
+silvianopolis,2
+dobrada,2
+divisa alegre,2
+dionisio,2
+serro,2
+serrita,2
+serranopolis do iguacu,2
+caraiba,2
+macaparana,2
+macambara,2
+nova campina,2
+nova brasilandia d'oeste,2
+nossa senhora do remedio,2
+nossa senhora do o,2
+nossa senhora de caravaggio,2
+nossa senhora das gracas,2
+caputira,2
+serrania,2
+serra dourada,2
+serra de sao bento,2
+serra azul de minas,2
+seringueiras,2
+nova esperanca do sul,2
+nova cruz,2
+nova canaa paulista,2
+nova canaa,2
+machacalis,2
+sericita,2
+senhora de oliveira,2
+senador modestino goncalves,2
+senador guiomard,2
+senador firmino,2
+seberi,2
+alvorada do norte,2
+alvaro de carvalho,2
+alvares florence,2
+alvarenga,2
+dona francisca,2
+dona euzebia,2
+domiciano ribeiro,2
+dom vicoso,2
+luiziana,2
+luiz alves,2
+luisburgo,2
+lucianopolis,2
+nova palma,2
+nova olimpia,2
+nova mamore,2
+nova itaberaba,2
+dom joaquim,2
+saude,2
+satubinha,2
+satuba,2
+sarapui,2
+sapopema,2
+echapora,2
+durande,2
+doverlandia,2
+botuvera,2
+luz,2
+lupionopolis,2
+lunardelli,2
+luizlandia do oeste,2
+dormentes,2
+sapeacu,2
+sape,2
+sao thome das letras,2
+engenheiro passos,2
+engenheiro beltrao,2
+novo barreiro,2
+bataypora,2
+lourdes,2
+brasilandia de minas,2
+bras pires,2
+braco do rio,2
+elisio medrado,2
+sao sebastiao da boa vista,2
+sao roque de minas,2
+sao pedro do turvo,2
+sao pedro de alcantara,2
+ametista do sul,2
+amaraji,2
+amapora,2
+sao paulo do potengi,2
+sao paulo das missoes,2
+sao miguel dos campos,2
+sao miguel do gostoso,2
+espigao,2
+capinzal do norte,2
+novo repartimento,2
+novo oriente do piaui,2
+capetinga,2
+capela de santana,2
+capela,2
+sao luis do quitunde,2
+sao luis do curu,2
+sao jose dos quatro marcos,2
+anastacio,2
+anadia,2
+sao jose do rio claro,2
+estrela do indaia,2
+espirito santo do turvo,2
+oliveira dos brejinhos,2
+olho d'agua das flores,2
+olho d'agua das cunhas,2
+oeiras do para,2
+ocara,2
+lindoeste,2
+limeira do oeste,2
+espigao alto do iguacu,2
+sao jose do hortencio,2
+sao jose do goiabal,2
+sao jose do divino,2
+sao jose do belmonte,2
+sao jose do barreiro,2
+sao jose da vitoria,2
+extremoz,2
+brazabrantes,2
+barrolandia,2
+leandro ferreira,2
+lavras da mangabeira,2
+laranjal do jari,2
+laranjal,2
+sao jose da laje,2
+sao jose da coroa grande,2
+sao jorge do patrocinio,2
+capao da porteira,2
+canitar,2
+caninde de sao francisco,2
+canhotinho,2
+fazenda vilanova,2
+sao joao do sul,2
+sao joao do oriente,2
+sao joao do manhuacu,2
+sao joao do ivai,2
+sao joao de pirabas,2
+ouro verde de minas,2
+oros,2
+sao joao das missoes,2
+sao joao da mata,2
+sao goncalo do abaete,2
+florai,2
+flor da serra do sul,2
+figueiropolis d'oeste,2
+ferros,2
+feliz deserto,2
+sao francisco do guapore,2
+sao francisco de assis,2
+sao felipe,2
+lagoa nova,2
+lagoa do ouro,2
+pacoti,2
+formigueiro,2
+flores,2
+floreal,2
+sao domingos do maranhao,2
+sao domingos das dores,2
+sao bras do suacui,2
+antonio pereira,2
+antonio cardoso,2
+anitapolis,2
+candido rodrigues,2
+santo eduardo,2
+frei martinho,2
+ladainha,2
+kalore,2
+juvenilia,2
+palmeirinha,2
+palmeiras,2
+paiva,2
+pains,2
+frecheirinha,2
+francisco dumont,2
+santo antonio do pinhal,2
+santo antonio do palma,2
+santo antonio do grama,2
+santana dos montes,2
+santana do serido,2
+apuiares,2
+fruta de leite,2
+aparecida de sao manuel,2
+junqueiro,2
+junco do serido,2
+lagoa do carro,2
+getulina,2
+gaviao peixoto,2
+gaucha do norte,2
+santana da boa vista,2
+santa terezinha,2
+santa teresinha,2
+santa rosa de lima,2
+santa rita do ibitipoca,2
+santa monica,2
+santa mercedes,2
+santa maria do suacui,2
+goiabeira,2
+glorinha,2
+gloria do goita,2
+governador lindenberg,2
+paraiso do norte,2
+panelas,2
+jussari,2
+juscimeira,2
+juranda,2
+jupi,2
+goianorte,2
+santa maria do para,2
+aracitaba,2
+aquiraz,2
+santa maria da serra,2
+grandes rios,2
+santa maria da boa vista,2
+santa izabel do oeste,2
+santa helena de minas,2
+guamare,2
+campo novo,2
+buenos aires,2
+paranatinga,2
+paranapua,2
+parana,2
+jumirim,2
+julio mesquita,2
+jucurucu,2
+santa ernestina,2
+santa cruz do prata,2
+santa cruz de salinas,2
+santa cruz de goias,2
+santa clara do sul,2
+paripiranga,2
+barra de sao miguel,2
+barra de santo antonio,2
+barra de santa rosa,2
+barra de guabiraba,2
+barra,2
+barbosa ferraz,2
+arapei,2
+araguapaz,2
+guarani das missoes,2
+santa barbara do sul,2
+guidoval,2
+guariroba,2
+guarda-mor,2
+guaratinga,2
+guarara,2
+jesupolis,2
+jeronimo monteiro,2
+jequitiba,2
+pato bragado,2
+pastos bons,2
+passos maia,2
+passa tres,2
+salto da divisa,2
+salmourao,2
+campo alegre de goias,2
+campinapolis,2
+rubiacea,2
+rondon,2
+hidrolina,2
+herval,2
+roncador,2
+romaria,2
+rodolfo fernandes,2
+rodeiro,2
+rodeio bonito,2
+roca sales,2
+ibiaca,2
+ibateguara,2
+pau d'arco,2
+bandeirantes do tocantins,2
+bandeira do sul,2
+patrocinio paulista,2
+patrocinio do muriae,2
+joao camara,2
+iacri,2
+rio tinto,2
+araripe,2
+ararica,2
+arari,2
+araponga,2
+ibipitanga,2
+ibicare,2
+ibiassuce,2
+jatauba,2
+jari,2
+paulo lopes,2
+paulo jacinto,2
+paudalho,2
+rio formoso,2
+icarai de minas,2
+ibirataia,2
+ibiraiaras,2
+rio do antonio,2
+areia,2
+aratuba,2
+igreja nova,2
+pedregulho,2
+pedras de fogo,2
+jequitai,2
+jequia da praia,2
+igaci,2
+ielmo marinho,2
+ichu,2
+rio das antas,2
+rifaina,2
+ribeiraozinho,2
+ribeirao vermelho,2
+iguai,2
+campina do monte alegre,2
+campina das missoes,2
+campina da lagoa,2
+periquito,2
+pentecoste,2
+pendencias,2
+penaforte,2
+pedro ii,2
+jardim alegre,2
+jaraguari,2
+campestre do maranhao,2
+campestre da serra,2
+campanario,2
+camocim de sao felix,2
+ribeirao branco,2
+riacho dos machados,2
+riacho das almas,2
+imbe de minas,2
+imbau,2
+cabeceira grande,2
+buritizal,2
+buritirama,2
+buriti dos lopes,2
+perpetuo socorro,2
+perola d'oeste,2
+perola,2
+peritiba,2
+riachinho,2
+reserva do cabacal,2
+cambira,2
+inconfidentes,2
+redentora,2
+rechan,2
+raposo,2
+rancho queimado,2
+rancho alegre,2
+inimutaba,2
+inhauma,2
+inhapi,2
+jaguaquara,2
+baianopolis,2
+picui,2
+piau,2
+piata,2
+jandaira,2
+arneiroz,2
+armazem,2
+arenapolis,2
+arembepe,2
+ipixuna do para,2
+baldim,2
+jaguaruna,2
+ipigua,2
+ipe,2
+ipaporanga,2
+quixelo,2
+quitandinha,2
+quijingue,2
+quevedos,2
+queluz,2
+putinga,2
+iramaia,2
+irai de minas,2
+irai,2
+iracema,2
+itabatan,2
+pindorama do tocantins,2
+pindorama,2
+pindoba,2
+pindai,2
+pimenteiras,2
+pimenta,2
+jacinto,2
+jacigua,2
+jaci,2
+itabaianinha,2
+irupi,2
+iraucuba,2
+irara,2
+protasio alves,2
+presidente kubitschek,2
+presidente kennedy,2
+ivai,2
+iuna,2
+itueta,2
+cachoeira da prata,2
+piracuruca,2
+pintadas,2
+presidente alves,2
+poxoreu,2
+california,2
+potim,2
+arroio do tigre,2
+arraias,2
+potengi,2
+itaguaru,2
+itaguaje,2
+itaquitinga,2
+itaquirai,2
+bacuri,2
+avelino lopes,2
+itororo,2
+itirapina,2
+jaboti,2
+jabora,2
+itagiba,2
+itagi,2
+porto trombetas,2
+porto franco,2
+porto firme,2
+porto esperidiao,2
+porto calvo,2
+porto amazonas,2
+portelandia,2
+portalegre,2
+porangaba,2
+ponto dos volantes,2
+itamogi,2
+itambaraca,2
+cachoeira do campo,2
+piripa,2
+pirauba,2
+itau,2
+itatiaiucu,2
+itaju,2
+pontalinda,2
+caiua,2
+caibate,2
+cafeara,2
+planura,2
+placas,2
+aurea,2
+augusto pestana,2
+pocoes,2
+itapirapua paulista,2
+itapirapua,2
+itapicuru,2
+itapetim,2
+afranio,2
+acegua,2
+castro alves,2
+xavantina,2
+xapuri,2
+werneck,2
+cavalcante,2
+castelo do piaui,2
+bodoco,2
+bocaiuva do sul,2
+vitoria do mearim,2
+visconde de maua,2
+virgolandia,2
+wenceslau braz,2
+wanderley,2
+abdon batista,1
+wagner,1
+viseu,1
+vista alegre,1
+vitoria das missoes,1
+vitoria do jari,1
+vitorino,1
+vitorinos,1
+xexeu,1
+bodo,1
+wenceslau guimaraes,1
+matriz de camaragibe,1
+matoes,1
+mato rico,1
+bom jesus da penha,1
+bom jardim de goias,1
+bodoquena,1
+vicentina,1
+vicente dutra,1
+vespasiano correa,1
+vertentes,1
+vermelho novo,1
+vermelho,1
+centro novo do maranhao,1
+centralina,1
+central de santa helena,1
+central,1
+cairu,1
+caicara do norte,1
+caetes,1
+itape,1
+itaparica,1
+itapage,1
+poco redondo,1
+poco de pedra,1
+pocao de pedras,1
+pocao,1
+planaltino,1
+planaltina do parana,1
+planaltina de goias,1
+pium,1
+itaporanga d'ajuda,1
+caem,1
+pitanga de estrada,1
+pirpirituba,1
+pires ferreira,1
+piratini,1
+pirapo,1
+pirapemas,1
+itaueira,1
+itatiba do sul,1
+ponto do marambaia,1
+ponto belo,1
+pontes gestal,1
+ponte alta do norte,1
+pontao,1
+pontalina,1
+pombos,1
+polo petroquimico de triunfo,1
+porto grande,1
+porto estrela,1
+porto dos gauchos,1
+porto de pedras,1
+porto alegre do norte,1
+porto acre,1
+portela,1
+porteiras,1
+populina,1
+ponto novo,1
+itanhanga,1
+itamira,1
+itaju do colonia,1
+cachoeira do brumado,1
+itapiuna,1
+pitimbu,1
+itaguara,1
+itaguacu da bahia,1
+itagimirim,1
+itarema,1
+bacaxa,1
+avai,1
+aurora do para,1
+aurilandia,1
+cacaulandia,1
+itiquira,1
+ivora,1
+itacurussa,1
+itacoatiara,1
+porto rico,1
+porto murtinho,1
+porto lucena,1
+praia norte,1
+pouso novo,1
+caldeirao grande do piaui,1
+caldas do jorro,1
+caldas brandao,1
+calcado,1
+cajuri,1
+cajueiro,1
+cajari,1
+cajapio,1
+itabirinha,1
+arvoredo,1
+aruana,1
+arroio trinta,1
+itaicaba,1
+itaguari,1
+presidente lucena,1
+presidente juscelino,1
+itutinga,1
+itupiranga,1
+pirambu,1
+pirajuba,1
+pirai do norte,1
+piracema,1
+piquerobi,1
+pio xii,1
+pio ix,1
+pinto bandeira,1
+presidente janio quadros,1
+presidente castello branco,1
+pratapolis,1
+pranchita,1
+ipueira,1
+itabi,1
+pinhotiba,1
+pinhal da serra,1
+pingo-d'agua,1
+pindoretama,1
+jaguapita,1
+jacuizinho,1
+jacuipe,1
+itaara,1
+isaias coelho,1
+iretama,1
+prudencio thomaz,1
+progresso,1
+princesa isabel,1
+presidente nereu,1
+ipecaeta,1
+ipaumirim,1
+quipapa,1
+quilometro 14 do mutum,1
+querencia do norte,1
+queixada,1
+queiroz,1
+quatro pontes,1
+quatituba,1
+puxinana,1
+purilandia,1
+pureza,1
+pugmil,1
+irape,1
+ipupiara,1
+ipuiuna,1
+ipiranga do norte,1
+ipiranga de goias,1
+jacareacanga,1
+jacarau,1
+jaboticatubas,1
+balsa nova,1
+balbinos,1
+baixa grande do ribeiro,1
+baixa grande,1
+jandaia,1
+jampruca,1
+jamapara,1
+jamaica,1
+jaguaribara,1
+jaguarembe,1
+jaguaracu,1
+picada cafe,1
+piao,1
+pianco,1
+piacu,1
+piacatu,1
+piacabucu,1
+cabixi,1
+ingai,1
+inga,1
+indiaroba,1
+arraial d ajuda,1
+aroeiras,1
+aribice,1
+arenopolis,1
+areial,1
+ipiranga do sul,1
+independencia,1
+cambiasca,1
+cambara do sul,1
+camacho,1
+calmon,1
+redencao do gurgueia,1
+redencao da serra,1
+ravena,1
+rancho alegre d'oeste,1
+rainha do mar,1
+iomere,1
+inocencia,1
+inhuma,1
+baguari,1
+picarras,1
+picarra,1
+ilha grande,1
+cabeceiras,1
+cabaceiras do paraguacu,1
+buriti do tocantins,1
+buriti alegre,1
+buriti,1
+pescador,1
+perola independente,1
+perobal,1
+ilha dos valadares,1
+riacho da cruz,1
+riachao das neves,1
+retirolandia,1
+ressaquinha,1
+reserva do iguacu,1
+remigio,1
+iguaracu,1
+peri mirim,1
+pereiras,1
+pequizeiro,1
+pequi,1
+peixe,1
+pedro velho,1
+pedro gomes,1
+jardim abc de goias,1
+jaquirana,1
+ribeirao cascalheira,1
+ribeira do amparo,1
+ribas do rio pardo,1
+riachuelo,1
+riacho de santo antonio,1
+ilicinea,1
+japoata,1
+japi,1
+japaratuba,1
+japaraiba,1
+janduis,1
+pedras altas,1
+pedrao,1
+pedranopolis,1
+pedra menina,1
+pedra lavrada,1
+pedra do indaia,1
+jequeri,1
+igapora,1
+rincao,1
+ribeiropolis,1
+ribeiro junqueira,1
+icatu,1
+icaraima,1
+ibitiuva,1
+ibitita,1
+ibitira,1
+ibitioca,1
+ibitiara,1
+ibirapua,1
+ibiraja,1
+ibiracu,1
+aratiba,1
+arataca,1
+igrapiuna,1
+igaratinga,1
+igarape-miri,1
+igarape-acu,1
+jataizinho,1
+jardim olinda,1
+jardim de piranhas,1
+pavao,1
+paulistania,1
+paulino neves,1
+paula freitas,1
+paula candido,1
+ibiara,1
+ibiajara,1
+rio maria,1
+rio grande do piaui,1
+rio espera,1
+rio dos indios,1
+rio dos cedros,1
+rio doce,1
+barao,1
+banzae,1
+bandeirantes d'oeste,1
+banabuiu,1
+joao dourado,1
+joaima,1
+humildes,1
+rio rufino,1
+arara,1
+arapua,1
+ibiracatu,1
+ibipeba,1
+ibicuitinga,1
+jenipapo de minas,1
+jaupaci,1
+jaua,1
+humberto de campos,1
+hulha negra,1
+herveiras,1
+heliopolis,1
+guzolandia,1
+guiricema,1
+romelandia,1
+riversul,1
+ibertioga,1
+ibema,1
+ibarama,1
+iaras,1
+pau brasil,1
+barao de juparana,1
+barao de cotegipe,1
+barao ataliba nogueira,1
+sacra familia do tingua,1
+saboeiro,1
+guinda,1
+campo do brito,1
+campo bonito,1
+campo azul,1
+campo alegre do fidalgo,1
+campo alegre de minas,1
+campo alegre de lourdes,1
+campinacu,1
+guimaraes,1
+sabaudia,1
+rubineia,1
+rubelita,1
+rosario do ivai,1
+rosario,1
+guatapara,1
+guassusse,1
+guaraquecaba,1
+jiquirica,1
+jeriquara,1
+jerico,1
+patis,1
+passo de camaragibe,1
+passira,1
+passagem franca,1
+passagem,1
+passa tempo,1
+guarapua,1
+salto do itarare,1
+salobro,1
+salinas da margarida,1
+aramari,1
+araguana,1
+araguaia,1
+araguacu,1
+aragoiania,1
+guapirama,1
+guape,1
+guamiranga,1
+santa barbara do para,1
+santa amelia,1
+sanga puita,1
+sandolandia,1
+sambaiba,1
+salvador do sul,1
+salto grande,1
+guia lopes da laguna,1
+santa clara d'oeste,1
+santa cecilia do pavao,1
+santa brigida,1
+parnarama,1
+parisi,1
+paripueira,1
+pareci novo,1
+pardinho,1
+barauna,1
+barao do triunfo,1
+buique,1
+bugre,1
+arapoema,1
+arantina,1
+aramina,1
+arame,1
+britania,1
+breves,1
+paranhos,1
+paranapoema,1
+paraju,1
+paraiso do sul,1
+jucas,1
+joselandia,1
+campo magro,1
+campo grande do piaui,1
+campo florido,1
+campo do tenente,1
+guaiuba,1
+guairaca,1
+santa cruz do timbo,1
+santa cruz do piaui,1
+aracatu,1
+aquidaba,1
+guabiju,1
+grupiara,1
+groairas,1
+gramado xavier,1
+gramado dos loureiros,1
+graccho cardoso,1
+governador mangabeira,1
+santa luzia do parua,1
+santa luzia do norte,1
+santa leopoldina,1
+santa isabel do rio preto,1
+santa filomena,1
+santa fe de minas,1
+brotas de macaubas,1
+jose da penha,1
+jose boiteux,1
+joaquim pires,1
+paraiso das aguas,1
+pancas,1
+jussiape,1
+juruti,1
+juru,1
+juripiranga,1
+jurema,1
+governador dix-sept rosado,1
+gongogi,1
+goncalves dias,1
+goiandira,1
+santa maria do salto,1
+santa maria do herval,1
+gentio do ouro,1
+general maynard,1
+general camara,1
+santana do capivari,1
+santana de pirapama,1
+santa salete,1
+santa rosa do sul,1
+santa rita do itueto,1
+santa rita de jacutinga,1
+santa rita da floresta,1
+santa quiteria do maranhao,1
+canapi,1
+canaa,1
+campos verdes,1
+godoy moreira,1
+governador eugenio barros,1
+glaura,1
+girau do ponciano,1
+barra longa,1
+barra do tarrachil,1
+barra do rio azul,1
+barra do jacare,1
+palmopolis,1
+palmital de minas,1
+lagoa do mato,1
+lagoa de velhos,1
+lagoa de sao francisco,1
+lagoa da canoa,1
+lagoa d'anta,1
+lagoa,1
+lago verde,1
+gilbues,1
+garruchos,1
+galvao,1
+galinhos,1
+galia,1
+gabriel monteiro,1
+frutuoso gomes,1
+apuarema,1
+apore,1
+apora,1
+apiacas,1
+aparecida do rio negro,1
+aparecida de monte alto,1
+santana do itarare,1
+santana do ipanema,1
+santana do deserto,1
+gloria de dourados,1
+fragosos,1
+foz do jordao,1
+fortim,1
+santo antonio do rio abaixo,1
+santo antonio do planalto,1
+santo antonio do leverger,1
+santo antonio do leste,1
+santo antonio do canaa,1
+santo antonio do caiua,1
+santo antonio do aventureiro,1
+santo antonio do aracangua,1
+santo antonio de goias,1
+santo antonio das queimadas,1
+santo antonio,1
+santo amaro das brotas,1
+santana do sobrado,1
+santo antonio dos campos,1
+santo antonio do taua,1
+frei rogerio,1
+palminopolis,1
+palmeira d oeste,1
+palmares paulista,1
+palhano,1
+brasopolis,1
+laje do muriae,1
+lagoinha do piaui,1
+lagoao,1
+lagoa salgada,1
+frei lagonegro,1
+frei gaspar,1
+francisco santos,1
+francisco dantas,1
+antonio goncalves,1
+antonina do norte,1
+candoi,1
+candido mendes,1
+candido godoi,1
+candeias do jamari,1
+candeal,1
+fortaleza dos valos,1
+sao bento abade,1
+sao bentinho,1
+sao benedito do sul,1
+sao benedito do rio preto,1
+santo inacio,1
+santo hipolito,1
+santo expedito do sul,1
+santo expedito,1
+fonseca,1
+florinia,1
+florida,1
+floresta do araguaia,1
+flores de goias,1
+sao domingos do araguaia,1
+sao desiderio,1
+sao cristovao do sul,1
+sao clemente,1
+sao carlos do ivai,1
+sao bras,1
+sao bonifacio,1
+sao bernardino,1
+aparecida d'oeste,1
+antunes,1
+antonio martins,1
+formosa do oeste,1
+formosa da serra negra,1
+lagoa real,1
+lagoa dos tres cantos,1
+lagoa dos patos,1
+lagoa do piaui,1
+paineiras,1
+paial,1
+padre paraiso,1
+padre gonzales,1
+padre carvalho,1
+pacuja,1
+pacotuba,1
+ouvidor,1
+ouro verde do oeste,1
+fontoura xavier,1
+florania,1
+flora rica,1
+filadelfia,1
+ferreiros,1
+fernao,1
+fenix,1
+feliz natal,1
+sao francisco do humaita,1
+sao francisco do gloria,1
+sao francisco do brejao,1
+sao fernando,1
+sao felix do coribe,1
+sao felix do araguaia,1
+sao felix de minas,1
+sao felix,1
+sao domingos do sul,1
+sao joao da parauna,1
+anhumas,1
+anhembi,1
+anhandui,1
+angustura,1
+anguera,1
+angicos,1
+angical do piaui,1
+angical,1
+angelo frechiani,1
+angelina,1
+angelica,1
+andrequice,1
+sao goncalo do rio das pedras,1
+sao geraldo do baguari,1
+sao geraldo da piedade,1
+ouro,1
+ourizona,1
+ourem,1
+osvaldo kroeff,1
+lajeado grande,1
+brejolandia,1
+brejoes,1
+brejo grande,1
+brejo dos santos,1
+brejo do cruz,1
+brejo bonito,1
+brejo,1
+brejetuba,1
+sao joao de petropolis,1
+sao joao da urtiga,1
+sao joao da ponte,1
+sao jorge do oeste,1
+sao jorge do ivai,1
+sao jorge d'oeste,1
+sao jorge,1
+sao joaquim do monte,1
+felixlandia,1
+felisburgo,1
+canudos,1
+canto do buriti,1
+cantanhede,1
+felipe guerra,1
+felicio dos santos,1
+sao joao do sobrado,1
+sao joao do sabugi,1
+sao joao do itaperiu,1
+ouro verde de goias,1
+eugenio de castro,1
+euclides da cunha paulista,1
+braunas,1
+barrocas,1
+barro preto,1
+barreira,1
+orobo,1
+orizania,1
+lebon regis,1
+lavrinhas,1
+laranja da terra,1
+lamim,1
+estrela velha,1
+estrela do sul,1
+sao jose da tapera,1
+sao jose da boa vista,1
+estevao de araujo,1
+lamarao,1
+onda verde,1
+olhos d'agua,1
+oleo,1
+olaria,1
+oiapoque,1
+livramento,1
+lindolfo collor,1
+lindoia do sul,1
+sao jose do inhacora,1
+sao jose do campestre,1
+faxinalzinho,1
+farol,1
+fagundes,1
+ewbank da camara,1
+sao mamede,1
+sao luiz do norte,1
+sao lourenco do piaui,1
+sao jose dos cordeiros,1
+sao jose do xingu,1
+andre da rocha,1
+andarai,1
+anaurilandia,1
+ananas,1
+anage,1
+sao jose do serido,1
+sao jose do ribeirao,1
+sao jose do piaui,1
+estrela d'oeste,1
+estrela d oeste,1
+estiva,1
+leopolis,1
+leopoldo de bulhoes,1
+leoberto leal,1
+lencois,1
+novo planalto,1
+novo oriente de minas,1
+novo mundo,1
+novo machado,1
+novo lino,1
+novo jardim,1
+novo itacolomi,1
+novo cabrais,1
+capela nova,1
+capela do alto alegre,1
+caparao,1
+sao mateus de minas,1
+americo de campos,1
+america dourada,1
+amargosa,1
+amarante,1
+amapa do maranhao,1
+sao patricio,1
+sao nicolau,1
+sao miguel do cambui,1
+sao miguel do anta,1
+sao miguel do aleixo,1
+sao miguel das matas,1
+capitao,1
+capistrano,1
+capim branco,1
+lidice,1
+liberato salzano,1
+sao sebastiao da serra,1
+sao sebastiao da amoreira,1
+sao rafael,1
+sao pedro do sul,1
+sao pedro do iguacu,1
+sao pedro do butia,1
+esmeralda,1
+erval grande,1
+erico cardoso,1
+erere,1
+erebango,1
+epitaciolandia,1
+entre folhas,1
+sao pedro da agua branca,1
+amparo da serra,1
+amontada,1
+engenheiro navarro,1
+engenheiro balduino,1
+novo brasil,1
+novo alegre,1
+novais,1
+bela vista do maranhao,1
+bela vista de minas,1
+bataipora,1
+nova vicosa,1
+loreto,1
+brasileia,1
+brasilandia,1
+emilianopolis,1
+embauba,1
+elisiario,1
+sao sebastiao de campos,1
+nova timboteua,1
+nova santa barbara,1
+nova roma do sul,1
+nova roma,1
+nova resende,1
+nova redencao,1
+luziapolis,1
+lutecia,1
+doutor ulysses,1
+doutor mauricio cardoso,1
+doutor camargo,1
+douradina,1
+sao vitor,1
+sao vendelino,1
+sao sebastiao do rio verde,1
+sao sebastiao do paraiba,1
+nova padua,1
+nova luzitania,1
+nova laranjeiras,1
+nova lacerda,1
+nova ipixuna,1
+nova independencia,1
+dom cavati,1
+saubara,1
+satiro dias,1
+sarutaia,1
+sardoa,1
+duere,1
+duas barras,1
+botupora,1
+botelho,1
+nova ubirata,1
+senador jose porfirio,1
+senador cortes,1
+senador amaral,1
+selbach,1
+segredo,1
+sede alvorada,1
+sebastiao leal,1
+amanari,1
+alvorada do gurgueia,1
+alvorada d'oeste,1
+alto sao joao,1
+dores de guanhaes,1
+dona emma,1
+dom macedo costa,1
+luis correia,1
+lucena,1
+serio,1
+nova guataporanga,1
+nova guarita,1
+nova floresta,1
+nova esperanca do sudoeste,1
+nova esperanca do piria,1
+nova crixas,1
+macuco de minas,1
+macuco,1
+macieira,1
+machados,1
+machadinho,1
+sento se,1
+senhora dos remedios,1
+senador salgado filho,1
+senador la rocque,1
+macambira,1
+nova brescia,1
+nova boa vista,1
+nova araca,1
+nova america da colina,1
+nova america,1
+nossa senhora de lourdes,1
+caracol,1
+capoeiras,1
+capivari do sul,1
+capitao eneas,1
+serra dos dourados,1
+serra do salitre,1
+serra branca,1
+serra bonita,1
+serra azul,1
+capitao andrade,1
+doce grande,1
+divisa nova,1
+divinopolis do tocantins,1
+divinopolis de goias,1
+divino de sao lourenco,1
+divino das laranjeiras,1
+divinesia,1
+diorama,1
+severiano melo,1
+sete de setembro,1
+sertao santana,1
+serranopolis de minas,1
+dois riachos,1
+caraibas,1
+macaubal,1
+nortelandia,1
+nobres,1
+neopolis,1
+nazare da mata,1
+bossoroca,1
+boraceia,1
+bora,1
+boquira,1
+boquim,1
+siriji,1
+simplicio mendes,1
+simao pereira,1
+silveira martins,1
+silveira carvalho,1
+silvanopolis,1
+silvano,1
+bequimao,1
+benedito leite,1
+bemposta,1
+natividade da serra,1
+natercia,1
+dezesseis de novembro,1
+desterro do melo,1
+desterro de entre rios,1
+desterro,1
+desembargador otoni,1
+demerval lobao,1
+alto bela vista,1
+solanea,1
+sobralia,1
+sitio novo do tocantins,1
+nossa senhora das dores,1
+mussurepe,1
+murucupi,1
+muritiba,1
+murici,1
+malhador,1
+major porto,1
+mairipotaba,1
+curvelandia,1
+curralinho,1
+curral de cima,1
+alto piquiri,1
+dias d avila,1
+diamante d'oeste,1
+bonito de santa fe,1
+bonito de minas,1
+madalena,1
+taiacu,1
+tacuru,1
+cupira,1
+cujubim,1
+cuite velho,1
+cruzeiro do iguacu,1
+tabuleiro do norte,1
+taboquinhas,1
+suzanapolis,1
+sulina,1
+delfim moreira,1
+datas,1
+nantes,1
+nacip raydan,1
+mutunopolis,1
+mutum parana,1
+taquarucu do sul,1
+taquarana,1
+tapurah,1
+tapinas,1
+taperuaba,1
+caridade,1
+crucilandia,1
+crominia,1
+croata,1
+cristinapolis,1
+tapera,1
+taparuba,1
+tanque d'arca,1
+tangara,1
+tamboara,1
+tamandare,1
+alpestre,1
+cravolandia,1
+maiquinique,1
+magalhaes de almeida,1
+mae d'agua,1
+muliterno,1
+mucurici,1
+mucuge,1
+mucambo,1
+mossamedes,1
+morro vermelho,1
+morro redondo,1
+maquine,1
+mansidao,1
+manoel urbano,1
+almirante tamandare do sul,1
+mampituba,1
+mamonas,1
+morro grande,1
+morro do pilar,1
+morro do ferro,1
+morro de sao paulo,1
+morro da garca,1
+morro agudo de goias,1
+bom retiro,1
+bom jesus do sul,1
+teixeira,1
+tecainda,1
+tavares,1
+alto alegre do pindare,1
+alto alegre do maranhao,1
+alto alegre do iguacu,1
+corrego danta,1
+carmesia,1
+coronel sapucaia,1
+cotipora,1
+cotegipe,1
+corumbatai do sul,1
+correntes,1
+corrego fundo,1
+termas de ibira,1
+terezinha,1
+teresina de goias,1
+terenos,1
+tenente ananias,1
+telha,1
+manfrinopolis,1
+manaira,1
+mar vermelho,1
+montividiu do norte,1
+monteiropolis,1
+biritinga,1
+bertopolis,1
+bertolinia,1
+berizal,1
+berilo,1
+monteiro lobato,1
+monte santo,1
+alexandrita,1
+alexandra,1
+tiradentes do sul,1
+tibau do sul,1
+terra nova,1
+corrego do ouro,1
+coronel pacheco,1
+coronel murta,1
+coronel martins,1
+coronel joao pessoa,1
+coronel freitas,1
+coronel domingos soares,1
+corguinho,1
+coreau,1
+tocos do moji,1
+almino afonso,1
+almas,1
+alianca,1
+alfredo marcondes,1
+bom jesus do querendo,1
+bom jesus do araguaia,1
+bom jesus do amparo,1
+ajapi,1
+tres irmaos,1
+tres forquilhas,1
+cordeiros,1
+coracao de maria,1
+coqueiros do sul,1
+contenda,1
+constantina,1
+conselheiro mairinck,1
+conrado,1
+conquista d'oeste,1
+travesseiro,1
+traipu,1
+tracuateua,1
+trabiju,1
+tome-acu,1
+confins,1
+condeuba,1
+conceicao do formoso,1
+monte bonito,1
+monte belo do sul,1
+monte alverne,1
+monte alegre de sergipe,1
+marechal deodoro,1
+marcos parente,1
+marcelino vieira,1
+maranhaozinho,1
+conceicao do caninde,1
+alcantara,1
+alagoa nova,1
+alagoa grande,1
+alagoa,1
+monsenhor paulo,1
+moncao,1
+mombaca,1
+marques de souza,1
+mariopolis,1
+marilena,1
+marilandia do sul,1
+carmolandia,1
+tuparece,1
+tunapolis,1
+tumiritinga,1
+tuiuti,1
+trombas,1
+treviso,1
+alegria,1
+alegrete do piaui,1
+umburanas,1
+ulianopolis,1
+uirauna,1
+ubirajara,1
+conceicao da ibitipoca,1
+comercinho,1
+combinado,1
+ubai,1
+turvelandia,1
+tururu,1
+tupassi,1
+conceicao do almeida,1
+carnauba dos dantas,1
+carnaiba do sertao,1
+montanhas,1
+montadas,1
+unistalda,1
+uniao dos palmares,1
+uniao do sul,1
+aiuaba,1
+agudo,1
+aguas mornas,1
+aguas frias,1
+aguas claras,1
+coite do noia,1
+coimbra,1
+cocos,1
+cocalzinho de goias,1
+uniao do oeste,1
+uniao da serra,1
+uniao,1
+umburatiba,1
+ciriaco,1
+marilac,1
+mariental,1
+maribondo,1
+mariano moro,1
+moema,1
+moeda,1
+mocajuba,1
+missi,1
+missao velha,1
+miravania,1
+mirante da serra,1
+miranda do norte,1
+cipo-guacu,1
+cipo,1
+cidelandia,1
+vanini,1
+vale do sol,1
+valao do barro,1
+chorrocho,1
+chorozinho,1
+chiapetta,1
+chaval,1
+chapadao do lageado,1
+urucuia,1
+urucania,1
+uruburetama,1
+uruana de minas,1
+cocais,1
+coari,1
+claro dos pocoes,1
+claraval,1
+boa vista do cadeado,1
+boa vista do burica,1
+boa vista das missoes,1
+boa ventura,1
+boa esperanca do iguacu,1
+miradouro,1
+mira estrela,1
+ministro andreazza,1
+matias olimpio,1
+cha de alegria,1
+cezarina,1
+cerro negro,1
+cerro grande,1
+cerrito,1
+cerejeiras,1
+vargeao,1
+agua nova,1
+agua limpa,1
+agua fria de goias,1
+agua doce,1
+agrolandia,1
+agrestina,1
+varzedo,1
+varzea nova,1
+varzea do poco,1
+varzea,1
+vargem grande do soturno,1
+vargem grande do rio pardo,1
+vargem grande,1
+cha grande,1
+miraguai,1
+boa vista do sul,1
+centenario,1
+mata,1
+martinesia,1
+minduri,1
+minas do leao,1
+mimoso de goias,1
+messias targino,1
+meridiano,1
+medicilandia,1
+ceilandia,1
+cedro do abaete,1
+cedro,1
+caxingo,1
+caxambu do sul,1
+venda branca,1
+agua preta,1
+xambre,1
+abadiania,1
+acajutiba,1
+agisse,1
+castanheiras,1
+cassia dos coqueiros,1
+caseiros,1
+cascalho rico,1
+vila reis,1
+vila pereira,1
+vila nova do sul,1
+vila flor,1
+vila bela da santissima trindade,1
+vieiras,1
+vicosa do ceara,1
+mauriti,1
+cacimbinhas,1
+caetanos,1
+itanhem,1
+augustinopolis,1
+atilio vivacqua,1
+atalanta,1
+atalaia,1
+assuncao,1
+assare,1
+pocoes de paineiras,1
+adustina,1
+adrianopolis,1
+adhemar de barros,1
+acucena,1
+acari,1
+virginia,1
