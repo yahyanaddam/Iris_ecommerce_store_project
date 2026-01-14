@@ -36,4 +36,11 @@ It explores the data, generates insights, and saves key results to output files.
 1. Open the notebook `notebooks/data_cleaning.ipynb` in Jupyter for reproducing the cleaned datasets.
 2. Open the notebook `notebooks/analysis.ipynb` in Jupyter for reproducing the Key_analysis_findings csv files in the output folder.
 3. Open the notebook `notebooks/visualization.ipynb` in Jupyter for reproducing the chart png files in the output folder.
-4. Open the notebook `notebooks/final_report.ipynb` in Jupyter for showing insights and key findings 
+4. Open the notebook `notebooks/final_report.ipynb` in Jupyter for showing insights and key findings
+
+## Tools used
+
+ - python
+ - pandas
+ - matplotlib
+ - seaborn
